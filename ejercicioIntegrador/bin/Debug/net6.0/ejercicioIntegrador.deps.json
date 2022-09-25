@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ejercicioIntegrador/1.0.0": {
+        "dependencies": {
+          "Entidades_integrador": "1.0.0"
+        },
+        "runtime": {
+          "ejercicioIntegrador.dll": {}
+        }
+      },
+      "Entidades_integrador/1.0.0": {
+        "runtime": {
+          "Entidades_integrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicioIntegrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_integrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

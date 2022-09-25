@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZ20G5LuWtu3ObFucg0ivNig1C1WIsPOUD5J+XfkamEgeb80xNbCt/R/pkkHcCXgRDk5o9IVovAbl3nGndDLmg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jonya\\Desktop\\Labo\\Labo2\\clase_05Repaso\\clase_05Repaso.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto WindowsForm no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El proyecto WindowsForm admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "WindowsForm",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

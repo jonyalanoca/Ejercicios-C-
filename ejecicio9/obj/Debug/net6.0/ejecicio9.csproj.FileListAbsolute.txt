@@ -1,0 +1,15 @@
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\bin\Debug\net6.0\ejecicio9.exe
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\bin\Debug\net6.0\ejecicio9.deps.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\bin\Debug\net6.0\ejecicio9.runtimeconfig.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\bin\Debug\net6.0\ejecicio9.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\bin\Debug\net6.0\ejecicio9.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.AssemblyInfoInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.AssemblyInfo.cs
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\refint\ejecicio9.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ejecicio9.genruntimeconfig.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\ejecicio9\obj\Debug\net6.0\ref\ejecicio9.dll

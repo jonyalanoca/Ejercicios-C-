@@ -1,0 +1,15 @@
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\bin\Debug\net6.0\c2_ejercicio6.exe
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\bin\Debug\net6.0\c2_ejercicio6.deps.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\bin\Debug\net6.0\c2_ejercicio6.runtimeconfig.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\bin\Debug\net6.0\c2_ejercicio6.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\bin\Debug\net6.0\c2_ejercicio6.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.AssemblyInfoInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.AssemblyInfo.cs
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\refint\c2_ejercicio6.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\c2_ejercicio6.genruntimeconfig.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c2_ejercicio6\obj\Debug\net6.0\ref\c2_ejercicio6.dll

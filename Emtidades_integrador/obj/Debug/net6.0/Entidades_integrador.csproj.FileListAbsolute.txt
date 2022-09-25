@@ -1,0 +1,12 @@
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\bin\Debug\net6.0\Entidades_integrador.deps.json
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\bin\Debug\net6.0\Entidades_integrador.dll
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\bin\Debug\net6.0\Entidades_integrador.pdb
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.csproj.AssemblyReference.cache
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.AssemblyInfoInputs.cache
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.AssemblyInfo.cs
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.csproj.CoreCompileInputs.cache
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.dll
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\refint\Entidades_integrador.dll
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\Entidades_integrador.pdb
+C:\Users\jonya\Desktop\Labo\Labo2\Emtidades_integrador\obj\Debug\net6.0\ref\Entidades_integrador.dll

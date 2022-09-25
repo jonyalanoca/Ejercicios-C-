@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "clase_05Repaso/1.0.0": {
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "runtime": {
+          "clase_05Repaso.dll": {}
+        }
+      },
+      "Empleado/1.0.0": {
+        "runtime": {
+          "Empleado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase_05Repaso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

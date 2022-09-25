@@ -1,0 +1,12 @@
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\bin\Debug\net6.0\c6_Entidades.deps.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\bin\Debug\net6.0\c6_Entidades.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\bin\Debug\net6.0\c6_Entidades.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.AssemblyInfoInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.AssemblyInfo.cs
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\refint\c6_Entidades.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\c6_Entidades.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\c6_Entidades\obj\Debug\net6.0\ref\c6_Entidades.dll

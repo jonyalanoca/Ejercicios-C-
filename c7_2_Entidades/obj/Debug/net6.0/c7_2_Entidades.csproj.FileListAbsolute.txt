@@ -1,0 +1,12 @@
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\bin\Debug\net6.0\c7_2_Entidades.deps.json
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\bin\Debug\net6.0\c7_2_Entidades.dll
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\bin\Debug\net6.0\c7_2_Entidades.pdb
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.csproj.AssemblyReference.cache
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.AssemblyInfoInputs.cache
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.AssemblyInfo.cs
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.dll
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\refint\c7_2_Entidades.dll
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\c7_2_Entidades.pdb
+C:\Users\jonya\Desktop\Labo\Labo2\c7_2_Entidades\obj\Debug\net6.0\ref\c7_2_Entidades.dll

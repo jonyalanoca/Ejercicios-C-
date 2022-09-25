@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "c4_ejercicio4/1.0.0": {
+        "dependencies": {
+          "c4_Entidades": "1.0.0"
+        },
+        "runtime": {
+          "c4_ejercicio4.dll": {}
+        }
+      },
+      "c4_Entidades/1.0.0": {
+        "runtime": {
+          "c4_Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c4_ejercicio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "c4_Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

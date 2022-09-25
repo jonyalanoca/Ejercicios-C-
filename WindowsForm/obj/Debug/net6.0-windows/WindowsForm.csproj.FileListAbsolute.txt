@@ -1,0 +1,17 @@
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\bin\Debug\net6.0-windows\WindowsForm.exe
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\bin\Debug\net6.0-windows\WindowsForm.deps.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\bin\Debug\net6.0-windows\WindowsForm.runtimeconfig.json
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\bin\Debug\net6.0-windows\WindowsForm.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\bin\Debug\net6.0-windows\WindowsForm.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.frmMiForm.resources
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.csproj.GenerateResource.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.AssemblyInfoInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.AssemblyInfo.cs
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\refint\WindowsForm.dll
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.pdb
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\WindowsForm.genruntimeconfig.cache
+C:\Users\adrian\Desktop\UTN\Labo\Labo2\WindowsForm\obj\Debug\net6.0-windows\ref\WindowsForm.dll
